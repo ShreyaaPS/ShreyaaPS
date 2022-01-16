@@ -8,6 +8,7 @@
 ![](https://img.shields.io/badge/OS-Linux-informational?style=flat&logo=linux&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/Tools-SqlServer-informational?style=flat&logo=MySql&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/Code-CSharp-informational?style=flat&logo=CSharp&logoColor=white&color=2bbc8a)
+![](https://img.shields.io/badge/Code-Dart-informational?style=flat&logo=Dart&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/IDE-VScode-informational?style=flat&logo=VisualStudioCode&logoColor=white&color=2bbc8a)
 ### ⚡ GitHub Status
 
