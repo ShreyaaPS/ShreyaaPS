@@ -11,7 +11,6 @@
 ![](https://img.shields.io/badge/Code-Dart-informational?style=flat&logo=Dart&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/IDE-VScode-informational?style=flat&logo=VisualStudioCode&logoColor=white&color=2bbc8a)
 ### ⚡ GitHub Status
-
 <a href="https://github.com/ShreyaaPS/ShreyaaPS">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ShreyaaPS&hide=java,html,tex&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21&langs_count=3" />
 </a>
