@@ -9,6 +9,15 @@
 ![](https://img.shields.io/badge/Tools-SqlServer-informational?style=flat&logo=MySql&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/Code-CSharp-informational?style=flat&logo=CSharp&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/Code-Dart-informational?style=flat&logo=Dart&logoColor=white&color=2bbc8a)
+![](https://img.shields.io/badge/Code-HTML-informational?style=flat&logo=HTML5&logoColor=white&color=2bbc8a)
+![](https://img.shields.io/badge/Code-CSS-informational?style=flat&logo=CSS3&logoColor=white&color=2bbc8a)
+![](https://img.shields.io/badge/Framework-Nodejs-informational?style=flat&logo=Node&logoColor=white&color=2bbc8a)
+![](https://img.shields.io/badge/Code-Angularjs-informational?style=flat&logo=Angular&logoColor=white&color=2bbc8a)
+![](https://img.shields.io/badge/Code-React-informational?style=flat&logo=React&logoColor=white&color=2bbc8a)
+![](https://img.shields.io/badge/Code-PHP-informational?style=flat&logo=PHP&logoColor=white&color=2bbc8a)
+![](https://img.shields.io/badge/Database-MongoDb-informational?style=flat&logo=MongoDB&logoColor=white&color=2bbc8a)
+![](https://img.shields.io/badge/Code-Ajax-informational?style=flat&logo=Ajax&logoColor=white&color=2bbc8a)
+![](https://img.shields.io/badge/Code-HTMLDOM-informational?style=flat&logo=DOM&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/IDE-VScode-informational?style=flat&logo=VisualStudioCode&logoColor=white&color=2bbc8a)
 ### ⚡ GitHub Status
 <a href="https://github.com/ShreyaaPS/ShreyaaPS">
